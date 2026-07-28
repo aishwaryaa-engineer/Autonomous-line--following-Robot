@@ -1,0 +1,15 @@
+STIMULATION _SETUP.MD
+  # Stimulator used
+  # Verilog version
+  # Module Names
+  # How to run stimulation
+Test_Cases.md 
+
+SENSOR INPUT                EXPECTED OUTPUT
+# center sensor active      # Move forward
+# Left sensor active        # Turn left
+# Right sensor active       # Turn Right
+# obstacle Detected         # Stop
+
+WAVEFORMS
+# screenshot of Stimulation results
