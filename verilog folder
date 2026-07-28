@@ -1,1 +1,16 @@
-
+SENSOR_CONTROLLER.v
+  # Takes IR sensor inputs
+  # Detects line position
+  # sends movement decision
+MOTOR_CONTROLLER.V
+   # controls motor driver signals
+   # forward movement
+   # Left turn
+   # right turn
+   # stop
+OBSTACLE_DETECTOR.V
+   #Processes Ultrasonic sensor input 
+   # Generates Stop signal
+ROBOT_TOP.V
+    # Provides tests inputs
+    # checks output behaviour
