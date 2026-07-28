@@ -1,0 +1,13 @@
+COMPONENTS_LIST.md 
+  # IR sensors
+  # Ultrasonic Sensor 
+  # motor driver
+  # DC Motors 
+  # Battery
+  # voltage Regulator
+  # Controller
+HARDWARE_TESTING.md
+  # sensor Testing
+  # Motor Testing
+  # Power testing
+  # Final Robot testing
