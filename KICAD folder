@@ -1,0 +1,11 @@
+SCHEMATIC CONTAINS 
+  # Motor driver circuit
+  # Sensor connections 
+  # Power Supply
+  # controller connections
+PCB Contains 
+  # Board layout
+  # Component placement
+  # Routing
+FootPrints Contains
+  # Selected Components Footprints
